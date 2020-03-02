@@ -95,7 +95,7 @@ public class Main2Activity extends AppCompatActivity {
                 goToActivity1();
                 return true;
 
-            case R.id.notesListView:
+            case R.id.note:
                 goToActivity3();
                 return true;
 

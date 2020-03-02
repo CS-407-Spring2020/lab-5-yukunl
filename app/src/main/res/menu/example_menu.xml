@@ -15,5 +15,10 @@
         android:title="Logout"
         app:showAsAction="never"
         />
+    <item
+        android:id="@+id/note"
+        android:title="Add note"
+        app:showAsAction="never"
+        />
 
 </menu>
